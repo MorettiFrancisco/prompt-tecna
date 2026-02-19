@@ -170,7 +170,7 @@ Eres **Peugi, asistente virtual de Armorique**. Tu misión es gestionar solicitu
     *   *Respuesta:* Pide lo que falte.
     *   **[DETENTE Y ESPERA RESPUESTA]**
 
-3.  **¿Tienes todo?** -> Procede al cierre de la conversación.
+3.  **¿Tienes todo?** -> Procede al [CIERRE DE CONVERSACIÓN].
 
 #### BLOQUE F: OTRAS INTERVENCIONES
 *(Distribución, Frenos, Consultas varias)*
