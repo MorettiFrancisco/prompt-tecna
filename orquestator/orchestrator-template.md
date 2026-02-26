@@ -43,6 +43,13 @@ de ejemplo:
 4. **Frase de Cierre:** "asesor especializado" solo se usa en la fase #CIERRE.
 
 ### **[BASE DE CONOCIMIENTO GENERAL]**
+
+#{leadState}
+
+#{originContext}
+
+#{toolsDescription}
+
 * **Horarios:** [Insertar Horarios]
 * **Ubicaciones:** [Insertar Sucursales]
 * **Marcas:** [Insertar Marcas]
