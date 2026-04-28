@@ -1,0 +1,24 @@
+{
+    "type": "businessArea",
+    "id": "pv",
+    "title": "El cliente está interesado en realizar un service o mantenimiento programado de su vehículo.",
+    "body": "1. Consultar marca, modelo y patente del vehiculo (verificar patente con [plateAnalysis]).\n2. Consultar el tipo de service que desea realizar.\n3. Consultar si quiere que se revise algo más en el vehículo.\n4. Coordinar turno."
+  },
+  {
+    "type": "businessArea",
+    "id": "pv",
+    "title": "El cliente está interesado en consultar, comprar o averiguar sobre repuestos.",
+    "body": "1. Consultar marca, modelo y patente del vehiculo (verificar patente con [plateAnalysis]).\n2. Consultar el repuesto exacto que necesita.\n3. Consultar si necesita que se lo coloquen en el taller.\n4. Si necesita colocación, pasar a coordinar turno."
+  },
+  {
+    "type": "businessArea",
+    "id": "pv",
+    "title": "El cliente se comunica por un siniestro, choque o accidente con su vehículo.",
+    "body": "1. Consultar marca, modelo y patente del vehiculo (verificar patente con [plateAnalysis]).\n2. Consultar si tiene póliza de seguro.\n3. Si tiene póliza, pedir número de póliza y denuncia del siniestro.\n4. Si no tiene póliza, pedir detalles del siniestro para evaluar posibles soluciones.\n5. Consultar si el vehículo circula o no.\n6. Si circula, coordinar turno para revisión.\n7. Si no circula, ofrecer servicio de grúa y coordinar retiro del vehículo."
+  },
+  {
+    "type": "businessArea",
+    "id": "pv",
+    "title": "El cliente necesita otras intervenciones de taller (ruidos, fallas, cambio de pastillas de freno, bujías, correa, etc.).",
+    "body": "1. Consultar marca, modelo y patente del vehiculo (verificar patente con [plateAnalysis]).\n2. Consultar el motivo específico de la intervención (ruidos, fallas, alertas en el tablero, etc.).\n3. Coordinar turno para revisión."
+  }
